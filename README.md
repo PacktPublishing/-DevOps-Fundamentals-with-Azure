@@ -24,8 +24,8 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Basic knowledge of working with Docker and DevOps
 ### Technical Requirements
 This course has the following software requirements:<br/>
-A trial account on Microsoft Azure Cloud Computing Platform & Services 
-Latest Docker
+A trial account on Microsoft Azure Cloud Computing Platform & Services <br/>
+Latest Docker<br/>
 Terraform 
 
 ## Related Products
